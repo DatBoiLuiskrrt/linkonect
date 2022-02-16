@@ -24,3 +24,25 @@
   display: flex;
   justify-content: space-evenly;
 }
+.hero-wrapper{
+  background-color: #023E8A;
+  height: 100vh;
+}
+.hero-container{
+  background-color: #023E8A;
+  display: flex;
+  color: white;
+  width: 80%;
+  height: 50vh;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.first-section{
+  border: 1px solid red;
+  width: 50%;
+}
+.second-section{
+  border: 1px solid red;
+  width: 50%;
+}
